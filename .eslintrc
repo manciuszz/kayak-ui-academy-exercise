@@ -32,6 +32,7 @@
     "react/destructuring-assignment": "off",
     "no-use-before-define": "off",
     "consistent-return": "off",
-    "prefer-destructuring": "off"
+    "prefer-destructuring": "off",
+    "camelcase": "warn"
   }
 }
